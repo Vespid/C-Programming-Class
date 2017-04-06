@@ -1,4 +1,3 @@
-# MAE9
-MAE9 Homework Assignments from Fall 2009
+C Programming Homework Assignments from Fall 2009
 
-This is an archives of my old C programming assignments from MAE9
+This is an archive of my old C programming assignments from uni
